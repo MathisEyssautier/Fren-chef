@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: c2cfe406ad444ae4d8a436783256f355
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 1827226128182048838
+    second: Take 001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aiStandardSurface2
+    second: {fileID: 2100000, guid: 01a70a7dd0351c1459703aff400ba532, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aiStandardSurface3
+    second: {fileID: 2100000, guid: 8515a7d8907a9d644a631f7c737ac835, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn11
+    second: {fileID: 2100000, guid: 94f423ba62a414148be72fd193bf01f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dahliaRed1FlowerShader
+    second: {fileID: 2100000, guid: 05d94494cbefba64d991ab7cee354504, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dahliaRed1LeafShader
+    second: {fileID: 2100000, guid: a0f42a78e19f7514eb35c29e7cb9211c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dahliaRed1Shader
+    second: {fileID: 2100000, guid: 204e27026f2045b4792459124979b187, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dahliaRed2FlowerShader
+    second: {fileID: 2100000, guid: 72c70f7ad024c8948a6435f70ec62288, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dahliaRed2LeafShader
+    second: {fileID: 2100000, guid: d8926d5cd209d37408e6f779406a5148, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dahliaRed2Shader
+    second: {fileID: 2100000, guid: e6c0298125812094a9fcddd37d321eac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dahliaRed3FlowerShader
+    second: {fileID: 2100000, guid: 5275fb99e2592234ca8549b1d021a7bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dahliaRed3LeafShader
+    second: {fileID: 2100000, guid: cf831feb1e60de541b383bb6da1c6213, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dahliaRed3Shader
+    second: {fileID: 2100000, guid: 75ff7b2ff9c51664d845e0b62f14b39a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dahliaRed4FlowerShader
+    second: {fileID: 2100000, guid: 3fadbecdd43515e44aa3da2b6b3b09ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dahliaRed4LeafShader
+    second: {fileID: 2100000, guid: 08c23309dfaa55a4a83dd4084bd6d1f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dahliaRed4Shader
+    second: {fileID: 2100000, guid: dde84208d2d6e654a943c9fb8f953242, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dahliaRed5FlowerShader
+    second: {fileID: 2100000, guid: 38f5e19b87a30ad448707afff0619cc9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dahliaRed5LeafShader
+    second: {fileID: 2100000, guid: beb3c7a9ade683f44b8a2648b33c36be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dahliaRed5Shader
+    second: {fileID: 2100000, guid: 05d7b80a1164101418facb0e1156e055, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dahliaRed6FlowerShader
+    second: {fileID: 2100000, guid: d0402cac66d3aa947995e213107228e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dahliaRed6LeafShader
+    second: {fileID: 2100000, guid: c44f3b9e64947d94e995483492930dec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dahliaRed6Shader
+    second: {fileID: 2100000, guid: 60db0998ddbf8504a8d1ea866c02ca24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dahliaRed7FlowerShader
+    second: {fileID: 2100000, guid: 7962ca231caf957428ac47ba5994d784, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dahliaRed7LeafShader
+    second: {fileID: 2100000, guid: 623eb64b57a59ff4381e9bfd5b1a7040, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dahliaRed7Shader
+    second: {fileID: 2100000, guid: eaaa847b78538e94aaf1a9e2203a4594, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dahliaRed8FlowerShader
+    second: {fileID: 2100000, guid: 96991daf3af3e664d9cd3030aacc1d07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dahliaRed8LeafShader
+    second: {fileID: 2100000, guid: 30190918eda19454b9c1afde015a0aa0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dahliaRed8Shader
+    second: {fileID: 2100000, guid: 2c28cd918a1c859469032ef6f9b9416c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dahliaRed9FlowerShader
+    second: {fileID: 2100000, guid: ffbce3fbee0ead842a2ff23ad14613b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dahliaRed9LeafShader
+    second: {fileID: 2100000, guid: 59e599b805eff8f40bcdbad9af873822, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dahliaRed9Shader
+    second: {fileID: 2100000, guid: 95ae6fbb3c1ae9a4c991d7f9e29cf199, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: defaultPolygonShader
+    second: {fileID: 2100000, guid: 71d46b5fbf8a8ad4898418bfa1bb98ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: far_shisha
+    second: {fileID: 2100000, guid: 85d2646915aeae74196778ac2be1a3c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: groundCoverBright1LeafShader
+    second: {fileID: 2100000, guid: f6b1f5af4e1c7c342812965084991038, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: groundCoverBright1Shader
+    second: {fileID: 2100000, guid: 1c9f1f5e186f72c4e9327e0431dd3cc4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: home
+    second: {fileID: 2100000, guid: e6fea76dcea9bff41a0c6663ea5c4d69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ivy1LeafShader
+    second: {fileID: 2100000, guid: 2adb2cf080bbc4747ae533a31c00d54c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ivy1Shader
+    second: {fileID: 2100000, guid: ac2714af8b4a4a34c86e46d67f986ab2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 197b835d1cdc7be48b710fb29f9a3eab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: met_cabinet
+    second: {fileID: 2100000, guid: 15ac33313f017ea48969574c98d8b5d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: met_far
+    second: {fileID: 2100000, guid: 30dbf2b8aa344674b944b804f492ce8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: met_goldone
+    second: {fileID: 2100000, guid: a4c57f79809b25f428a1c02c34b34116, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: met_open
+    second: {fileID: 2100000, guid: 44bc174974789314b862146784c1dd27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: met_shisha
+    second: {fileID: 2100000, guid: def84eee9771c7849b5026e0ee5f6f19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palmIndoorMedium1LeafShader
+    second: {fileID: 2100000, guid: 3dbc064431e66b94ea3c6623ed094dcd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palmIndoorMedium1Shader
+    second: {fileID: 2100000, guid: fbfaaa4b7fb8e194c9a28af4e95d0ed9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palmLeafy1LeafShader
+    second: {fileID: 2100000, guid: 1ed5f4d3b21d5a84da7de468de5d099a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palmLeafy1Shader
+    second: {fileID: 2100000, guid: 9be768b4569cc5741b09f246092fdef0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palmLeafy2LeafShader
+    second: {fileID: 2100000, guid: a3da247ec78ef9547a45e48f256c4eb7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palmLeafy2Shader
+    second: {fileID: 2100000, guid: f63817d13fb3d12478edacc778122f6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palmLeafy3LeafShader
+    second: {fileID: 2100000, guid: 89356e4ef4b516845aebd7caf361bdcc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palmLeafy3Shader
+    second: {fileID: 2100000, guid: b67d67d3e62ff9e448b89672307b139a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palmLeafy4LeafShader
+    second: {fileID: 2100000, guid: 56dcd6539ff10e04ea003fe04424429d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: palmLeafy4Shader
+    second: {fileID: 2100000, guid: 56819648a9a20634ba0bd46e8adce676, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__dastgira
+    second: {fileID: 2100000, guid: 7e04336bdf3334a46864a5cbaa2bdc81, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__shir_Ab
+    second: {fileID: 2100000, guid: 0b9d9e74998dbb248afb54d2101d166a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roseRed1FlowerShader
+    second: {fileID: 2100000, guid: 53608216fa835974ca0683d85f4323ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roseRed1LeafShader
+    second: {fileID: 2100000, guid: 71d2a10d71f924a47916b7b97929b613, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roseRed1Shader
+    second: {fileID: 2100000, guid: 52ac52a71e7c35549b166fd6fc8029da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roseRed2FlowerShader
+    second: {fileID: 2100000, guid: 0582373fcc8eda042a09f0fa20330997, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roseRed2LeafShader
+    second: {fileID: 2100000, guid: ce9525ddd0aafa547aa56889f5fe39c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roseRed2Shader
+    second: {fileID: 2100000, guid: 37269a905932ce44db08b197d0a0a781, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roseRed3FlowerShader
+    second: {fileID: 2100000, guid: de48fcae096bfa14b85db85cc6c2be95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roseRed3LeafShader
+    second: {fileID: 2100000, guid: de890d33b38c96e4cb26c7427c429ea5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roseRed3Shader
+    second: {fileID: 2100000, guid: 4c978a087d2b9bd4d8db75902e4b3097, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rosemary1LeafShader
+    second: {fileID: 2100000, guid: e41d911c3f04dda4e9462f38de6a8f9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rosemary1Shader
+    second: {fileID: 2100000, guid: 2501c2bcd9472244d9f9394663481eb9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rosemary2Shader
+    second: {fileID: 2100000, guid: c7d306c64e84a4b46bdedc880d1580dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rosemary3LeafShader
+    second: {fileID: 2100000, guid: 5d8f4c471a0da144da3435947cf267cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rosemary3Shader
+    second: {fileID: 2100000, guid: 64e33034ed658c14db4f27efa761c292, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rosemary4LeafShader
+    second: {fileID: 2100000, guid: faab53cd8d94341439f872767be6d7a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rosemary4Shader
+    second: {fileID: 2100000, guid: 3f4641501e0edee458f1de0243daf1bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rosemary5LeafShader
+    second: {fileID: 2100000, guid: 6d45626818225d34ab632cb04f3547ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rosemary5Shader
+    second: {fileID: 2100000, guid: e570df98d96088c4c939746c842f8779, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rosemary6LeafShader
+    second: {fileID: 2100000, guid: 9564e3723f37b374d8298e6a333458cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rosemary6Shader
+    second: {fileID: 2100000, guid: 20e466c0dc9ac3b42a45bcb2f128abd0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rosemary7Shader
+    second: {fileID: 2100000, guid: a7c7c41cfc9859041ae1d9da7f5edb28, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rosemary8LeafShader
+    second: {fileID: 2100000, guid: 78907082ac6d5e74eb715ec7e89c3182, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rosemary8Shader
+    second: {fileID: 2100000, guid: a87d5923b4761e940a9bff82ef0b2920, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shrubMesh2LeafShader
+    second: {fileID: 2100000, guid: 816623181b75c9c45be8cd1b69c9c51b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shrubMesh2Shader
+    second: {fileID: 2100000, guid: e3754a83de52cba47a44fd218115f72e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sunflowerThorns1FlowerShader
+    second: {fileID: 2100000, guid: 4d4b4b6b80895b84d93f8c51b696d219, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sunflowerThorns1LeafShader
+    second: {fileID: 2100000, guid: 6274b035a2c7d064aa03b3ce7a7fc401, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sunflowerThorns1Shader
+    second: {fileID: 2100000, guid: 348b5baf46510184bbceba38e1ac3144, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
